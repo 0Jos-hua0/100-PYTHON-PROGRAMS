@@ -1,8 +1,6 @@
 """
 Hello World Program (Program #1)
 --------------------------------
-This is a simple Python program that prints "Hello, World!" to the console.
-It's traditionally the first program written when learning a new programming language.
 """
 
 def main():
